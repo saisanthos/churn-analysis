@@ -89,5 +89,29 @@ Steps:
 Evaluated models using metrics like accuracy, precision, recall, and F1-score.
 
 
+**Reports**
+
+**Pandas Profiling Reports:**
+
+
+Churn_Pandas_Profiling_Report-3-2.html: Detailed insights for Project 1.
+
+
+Churn_Pandas_Profiling_Report-4.html: Detailed insights for Project 2.
+
+
+**Sweetviz Reports**:
+
+
+sweetviz_report-2-3.html: Comprehensive visual EDA for Project 1.
+
+
+sweetviz_report-3-2.html: Comprehensive visual EDA for Project 2.
+
+
+
+
+
+
 
 
