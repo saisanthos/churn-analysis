@@ -43,3 +43,55 @@ This repository contains multiple data science projects focused on analyzing and
 
 
   **Target Feature**: Churn (whether a customer churned or not).
+
+
+**Projects**
+
+
+
+**Project 1:** Exploratory Data Analysis (EDA)
+
+
+**Objective:** Understand the dataset, uncover patterns, and prepare data for modeling.
+
+
+Steps:
+
+
+   Handled missing values and transformed categorical features.
+
+
+   Analyzed key variables influencing churn rates.
+
+
+   Generated visualizations using Pandas Profiling and Sweetviz.
+
+**Project 2:** Machine Learning for Churn Prediction
+
+
+**Objective:** Build and evaluate machine learning models to predict customer churn.
+
+
+Steps:
+
+
+    Applied feature engineering techniques.
+
+
+    Used classification models:
+
+
+           Logistic Regression
+
+
+           Random Forest
+
+
+           XGBoost
+
+
+Evaluated models using metrics like accuracy, precision, recall, and F1-score.
+
+
+
+
