@@ -11,10 +11,20 @@ This repository contains multiple data science projects focused on analyzing and
 
 
 |-- DSProject_2.ipynb                  # Jupyter Notebook for Project 2 (Modeling and prediction)
+
+
 |-- Churn_Pandas_Profiling_Report-3-2.html   # EDA report generated using Pandas Profiling (Project 1)
+
+
 |-- Churn_Pandas_Profiling_Report-4.html     # EDA report generated using Pandas Profiling (Project 2)
+
+
 |-- sweetviz_report-2-3.html           # EDA report generated using Sweetviz (Project 1)
+
+
 |-- sweetviz_report-3-2.html           # EDA report generated using Sweetviz (Project 2)
+
+
 |-- README.md                          # Project documentation (this file)
 
 
