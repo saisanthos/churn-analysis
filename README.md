@@ -73,12 +73,8 @@ Steps:
 
 
 Steps:
-
-
-    Applied feature engineering techniques.
-
-
-    Used classification models:
+   Applied feature engineering techniques.
+   Used classification models:
 
 
            Logistic Regression
