@@ -1,4 +1,6 @@
 **Churn Analysis Project**
+
+
 **Overview**
 
 This repository contains multiple data science projects focused on analyzing and predicting customer churn in the telecommunications industry. The projects involve extensive exploratory data analysis (EDA), data visualization, and machine learning techniques.
@@ -31,8 +33,13 @@ This repository contains multiple data science projects focused on analyzing and
 **Dataset**
 
 **Filename**: telco-customer-churn.csv
+
 **Description**: The dataset contains information on customer churn in a telecommunications company. It has 7043 rows and 21 columns, with features divided into:
 
   **Categorical Features**: Gender, Contract type, Payment method, etc.
+
+
   **Numerical Features**: Monthly charges, Total charges, Tenure.
+
+
   **Target Feature**: Churn (whether a customer churned or not).
