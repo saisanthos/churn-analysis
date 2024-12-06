@@ -108,6 +108,16 @@ sweetviz_report-2-3.html: Comprehensive visual EDA for Project 1.
 
 sweetviz_report-3-2.html: Comprehensive visual EDA for Project 2.
 
+**Results**
+
+
+
+EDA revealed key factors influencing churn, such as contract type, monthly charges, and tenure.
+
+
+Models achieved high accuracy and recall, making them effective at identifying customers likely to churn.
+
+
 
 
 
