@@ -5,7 +5,11 @@ This repository contains multiple data science projects focused on analyzing and
 
 
 |-- telco-customer-churn.csv           # Dataset used in the analysis
+
+
 |-- DSProject_1.ipynb                  # Jupyter Notebook for Project 1 (EDA and preprocessing)
+
+
 |-- DSProject_2.ipynb                  # Jupyter Notebook for Project 2 (Modeling and prediction)
 |-- Churn_Pandas_Profiling_Report-3-2.html   # EDA report generated using Pandas Profiling (Project 1)
 |-- Churn_Pandas_Profiling_Report-4.html     # EDA report generated using Pandas Profiling (Project 2)
